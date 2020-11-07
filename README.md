@@ -1,14 +1,14 @@
 # lini.lua
-A lightweight lua INI parser with tables.
+A lightweight lua INI parser with tables.<br />
 *This project is forked from https://github.com/Dynodzzo/Lua_INI_Parser.*
 
 # Usage
-Include [lini.lua](https://github.com/nikneym/lini.lua/blob/main/lini.lua) file into your project directory.
-Call it using __require__ function.
-It will return a table containing read & write functions.
+Include [lini.lua](https://github.com/nikneym/lini.lua/blob/main/lini.lua) file into your project directory.<br />
+Call it using __require__ function.<br />
+It will return a table containing read & write functions.<br />
 
 # Docs
-* __lini.load(*file_name*)__ : Returns a table containing all the values from the file.
+* __lini.load(*file_name*)__ : Returns a table containing all the values from the file.<br />
 * __lini.save(*file_name*, *data*)__ : Saves the data into the specified file.
 
 # Example
