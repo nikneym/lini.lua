@@ -24,7 +24,7 @@
 --]]
 --- Lua INI Parser.
 -- It has never been that simple to use INI files with Lua.
---@author Dynodzzo
+--@author Dynodzzo, nikneym
 
 local lini = {}
 
