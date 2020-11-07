@@ -35,14 +35,14 @@ local data = {
 }
 ````
 
-All we have to do is import lini.lua and call lini.save:
+All we have to do is import __lini.lua__ and call __lini.save__:
 ```lua
 lini = require "lini"
 
 lini.save("settings.ini", data)
 ````
 
-We can open our INI file with lini.load and use stored data:
+We can open our INI file with __lini.load__ and use stored data:
 ```lua
 local getData = lini.load("settings.ini")
 
