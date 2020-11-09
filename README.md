@@ -1,5 +1,5 @@
 # lini.lua
-A lightweight lua INI parser with tables.<br />
+The lightweight lua INI parser with tables.<br />
 *This project is forked from https://github.com/Dynodzzo/Lua_INI_Parser.*
 
 # Usage
